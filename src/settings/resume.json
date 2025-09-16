@@ -22,8 +22,8 @@
         "profiles": [
             {
                 "network": "Google",
-                "username": "hey@mylenaverspeelt.com",
-                "url": "mailto:hey@mylenaverspeelt.com",
+                "username": "mailto:mylenaverspeelt@gmail.com",
+                "url": "mailto:mylenaverspeelt@gmail.com",
                 "x_icon": "fab fa-google"
             },
             {
