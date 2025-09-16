@@ -1,0 +1,132 @@
+{
+    "basics": {
+        "name": "Mylena Verspeelt",
+        "label": "Fullstack Software Engineer",
+        "email": "mylenaverspeelt@gmail.com",
+        "phone": "(81) 98117-9881",
+        "picture": "jl.png",
+        "x_title": "Hey, I'm",
+        "job": "Fullstack Software Engineer",
+        "description": "Hey, I'm Mylena Verspeelt, Fullstack Software Engineer based in Recife, Brasil",
+        "summary": "based in Recife, Brasil.",
+        "keywords": "personal,website,portfolio,mymy,mylena,verspeelt,mylenaverspeelt,softwareengineer,fullstack,backend,frontend,computer,science,recife,brasil,brazil,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp",
+        "url": "/",
+        "location": {
+            "address": "XX XXXXXstreet",
+            "postalCode": "XXXXX",
+            "city": "Recife",
+            "country": "Brasil",
+            "countryCode": "BR",
+            "region": "Recife"
+        },
+        "profiles": [
+            {
+                "network": "Google",
+                "username": "hey@mylenaverspeelt.com",
+                "url": "mailto:hey@mylenaverspeelt.com",
+                "x_icon": "fab fa-google"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "mylenaverspeelt",
+                "url": "https://www.linkedin.com/in/mylenaverspeelt/",
+                "x_icon": "fab fa-linkedin-in"
+            },
+            {
+                "network": "GitHub",
+                "username": "mylenaverspeelt",
+                "url": "https://github.com/mylenaverspeelt",
+                "x_icon": "fab fa-github"
+            },
+            {
+                "network": "GitLab",
+                "username": "mylenaverspeelt",
+                "url": "https://gitlab.com/mylenaverspeelt",
+                "x_icon": "fab fa-gitlab"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Company",
+            "position": "President",
+            "website": "http://company.com",
+            "startDate": "2013-01-01",
+            "endDate": "2014-01-01",
+            "summary": "Description...",
+            "highlights": ["Started the company"]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Organization",
+            "position": "Volunteer",
+            "website": "http://organization.com/",
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01",
+            "summary": "Description...",
+            "highlights": ["Awarded 'Volunteer of the Month'"]
+        }
+    ],
+    "education": [
+        {
+            "institution": "University",
+            "area": "Software Development",
+            "studyType": "Bachelor",
+            "startDate": "2011-01-01",
+            "endDate": "2013-01-01",
+            "gpa": "4.0",
+            "courses": ["DB1101 - Basic SQL"]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "website": "http://publication.com",
+            "summary": "Description..."
+        }
+    ],
+    "skills": [
+        {
+            "name": "Web Development",
+            "level": "Master",
+            "keywords": ["HTML", "CSS", "Javascript"]
+        }
+    ],
+    "languages": [
+        {
+            "language": "German",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Fluent speaker"
+        },
+        {
+            "language": "French",
+            "fluency": "Good knowledge"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Wildlife",
+            "keywords": ["Ferrets", "Unicorns"]
+        }
+    ],
+    "references": [
+        {
+            "name": "Jane Doe",
+            "reference": "Reference..."
+        }
+    ]
+}
